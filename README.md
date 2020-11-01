@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 📫 How to reach me: 
 --->
 
-Link to my [Repositories](https://github.com/suryanshshukla10?tab=repositories)
+## List of my Repositories
+
+[All repositories](https://github.com/suryanshshukla10?tab=repositories)
 
 
 
