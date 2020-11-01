@@ -20,6 +20,10 @@ Here are some ideas to get you started:
 📫 How to reach me: 
 --->
 
+Link to my [Repositories](https://github.com/suryanshshukla10?tab=repositories)
+
+
+
 <p align="left"> </p><p align="center"> 
   <img src=https://github-readme-stats.vercel.app/api?username=suryanshshukla10&show_icons=true&count_private=true alt=suryanshshukla10 /> 
 </p>
