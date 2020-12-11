@@ -27,5 +27,9 @@ Here are some ideas to get you started:
 
 
 <p align="left"> </p><p align="center"> 
-  <img src=https://github-readme-stats.vercel.app/api?username=suryanshshukla10&show_icons=true&count_private=true alt=suryanshshukla10 /> 
+<!--   <img src=https://github-readme-stats.vercel.app/api?username=suryanshshukla10&show_icons=true&count_private=true alt=devanshshukla99 />  -->
+	<img src="https://github-readme-stats.vercel.app/api?username=suryanshshukla10&show_icons=true&count_private=true&hide_border=true" alt="devanshshukla99" />
+</p>	
+<p align="left"> </p><p align="center"> 
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryanshshukla10&hide_border=true" alt="devanshshukla99" />
 </p>
